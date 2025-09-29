@@ -4,6 +4,8 @@ description: This resource contains the information regarding en direct tourisme
 file: /courses/21g-302-french-ii-fall-2004/33698cbbd0953a0ccd4dfc2173e686e8_MIT21G_302_F04_En_direct_V.pdf
 file_size: 59731
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

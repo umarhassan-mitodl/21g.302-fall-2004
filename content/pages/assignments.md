@@ -241,7 +241,7 @@ Activité Web
 Bienvenue sur le site du Lycée THIERS    
 Lycee Professionnel Guynemer    
 Bienvenue sur le site du Lycée Alphonse Daudet de Nîmes    
-{{% resource_link "e4239970-511a-4661-9f48-0e35f058fd68" "Lycée RICHELIEU" %}}
+[Lycée RICHELIEU](http://www.lyc-richelieu-rueil.ac-versailles.fr/)
 
 2\. *Pour l'établissement que vous avez choisi, remplissez* la fiche: Activité Web ({{% resource_link "d1b0af23-26fc-6a82-bacc-bcfc360a0b9c" "PDF" %}})
 
@@ -368,7 +368,7 @@ Dans Parallèles, lisez Contexte 3: "Le monde du travail:" p. 419-420 et étudie
 
 Etudiez Structure #3: Les verbes croire et voir: p.422-423. Dans le Cahier d'activités, faites les exercices 11-5: p. 193 et 11-9: p. 196.
 
-*Activité web* ({{% resource_link "40739737-2286-e4fa-1a0d-b5f5d80b62ff" "PDF" %}}): Allez sur le site de MIT-France qui contient la liste des compagnies françaises proposant des stages aux étudiants du MIT. {{% resource_link "15396350-f227-4625-b1df-da500a95e8ae" "Internships - Participating Companies" %}}
+*Activité web* ({{% resource_link "40739737-2286-e4fa-1a0d-b5f5d80b62ff" "PDF" %}}): Allez sur le site de MIT-France qui contient la liste des compagnies françaises proposant des stages aux étudiants du MIT. [Internships - Participating Companies](https://misti.mit.edu/student-programs/location/france)
 
 Choisissez une compagnie qui vous intéresse et remplissez la fiche Activité web avec les informations demandées sur la compagnie que vous avez choisie.    
  

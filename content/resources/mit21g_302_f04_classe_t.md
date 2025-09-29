@@ -5,6 +5,8 @@ description: This resource contains the information regarding activit de classe 
 file: /courses/21g-302-french-ii-fall-2004/463d5b752bb69fba7506259305560da2_MIT21G_302_F04_Classe_T.pdf
 file_size: 516137
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

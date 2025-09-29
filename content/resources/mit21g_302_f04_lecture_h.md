@@ -4,6 +4,8 @@ description: This resource contains the information regarding fiche de lecture.
 file: /courses/21g-302-french-ii-fall-2004/5a1eb38fd19d34af648259a8512f92cb_MIT21G_302_F04_lecture_H.pdf
 file_size: 58385
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

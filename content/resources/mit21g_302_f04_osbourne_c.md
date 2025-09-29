@@ -5,6 +5,8 @@ description: This resource contains the information regarding activite de Classe
 file: /courses/21g-302-french-ii-fall-2004/48f2867f678169f4bd02874b122a18ab_MIT21G_302_F04_Osbourne_C.pdf
 file_size: 56087
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
