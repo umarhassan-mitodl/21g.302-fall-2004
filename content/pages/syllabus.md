@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Course Objectives, Requirements and Grading
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -52,7 +50,7 @@ Every week or two weeks you will receive a detailed syllabus outlining the work 
 
 Additional homework might include watching videos and using the web. These assignments will always be announced well ahead of time.
 
-*   please check the [MIT French Web page](https://mitgsl.mit.edu/academics/french-and-francophone-studies) for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
+*   please check the {{% resource_link "5133bac4-ee6b-495d-915f-b4ee6e013f97" "MIT French Web page" %}} for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
 
 The LLARC (Language Learning and Resource Center)
 
